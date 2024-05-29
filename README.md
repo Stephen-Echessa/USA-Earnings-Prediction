@@ -1,7 +1,7 @@
 # Earnings Prediction Project
 ## Overview
 
-Welcome to the Earnings Prediction Project! This GitHub repository contains the code and documentation for a project focused on predicting earnings in the USA based on the National Longitudinal Survey of Youth 1997-2011 dataset. The primary objective of this project was to develop a robust predictive model using XGBoost Regression, with additional efforts invested in feature engineering to enhance model performance.
+This GitHub repository contains the code and documentation for a project focused on predicting earnings in the USA based on the National Longitudinal Survey of Youth 1997-2011 dataset. The primary objective of this project was to develop a robust predictive model using XGBoost Regression, with additional efforts invested in feature engineering to enhance model performance.
 
 ## Dataset
 
