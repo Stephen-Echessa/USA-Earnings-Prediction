@@ -19,15 +19,15 @@ The project utilizes the National Longitudinal Survey of Youth 1997-2011 dataset
 
 To improve the model's predictive performance, various feature engineering techniques were applied. These techniques include:
 
-  Handling missing data.
+  1) Handling missing data.
   
-  Encoding categorical variables.
+  2) Encoding categorical variables.
   
-  Creating new relevant features.
+  3) Creating new relevant features.
   
-  Scaling and transforming numerical features.
+  4) Scaling and transforming numerical features.
   
-  Feature Selection
+  5) Feature Selection
 
 ## Model
 
