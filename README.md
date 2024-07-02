@@ -31,8 +31,9 @@ To improve the model's predictive performance, various feature engineering techn
 
 ## Model
 
-The XGBoost Regression model was chosen for its ability to handle complex relationships in the data and its robustness in predicting numerical outcomes. The model was trained on the preprocessed dataset, and hyperparameter tuning may have been performed to optimize its performance.
-Usage
+The XGBoost Regression model was chosen for its ability to handle complex relationships in the data and its robustness in predicting numerical outcomes. The model was trained on the preprocessed dataset, and hyperparameter tuning was performed to optimize its performance.
+
+## Usage
 
   ### Clone the repository:
 
